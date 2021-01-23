@@ -8,5 +8,5 @@ go build
 then open the executable or run the binary that it compiles to
 
 # Credits
-@TotallyNotMalicious
-@Blockman18
+Blockman18
+TotallyNotMalicious
