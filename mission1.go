@@ -136,8 +136,8 @@ func m1ConfrontationThree() {
 		fmt.Println("\nYou continue without reloading")
 	} else if choice3L == "y" {
 		fmt.Println("\nYou reload and continue")
-		time.Sleep(4 * time.Second)
 	}
+	time.Sleep(4 * time.Second)
 	fmt.Println("\nThere are two enemies in the basement, you move down the basement with your team on your back! You kill 1, but get hit. Current health: 50")
 	time.Sleep(4 * time.Second)
 	fmt.Println("\nMission succsessful, the new HMV is enroute to your location, congrats you saved the hostages!")
